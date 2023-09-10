@@ -4,9 +4,8 @@ In all recordings, the paradigm we are evaluating is controlling the blue team.
 
 ---
 ### IL-DDPG blocking each other:
-|||||
+|![](0.webp)|![](1.webp)|![](2.webp)|![](3.webp)|
 |:--:|:--:|:--:|:--:|
-|![](0.webp)|![](1.webp)|![](2.webp)| ![](3.webp)|
 
 
 

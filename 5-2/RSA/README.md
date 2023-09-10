@@ -4,14 +4,11 @@ In all recordings, the paradigm we are evaluating is controlling the blue team.
 
 ---
 ### RSA dexterity:
-|||||
-|:--:|:--:|:--:|:--:|
-||![](1.webp)|![](4.webp) |![](3.webp)
+|![](1.webp)|![](4.webp) |![](3.webp)|
+|:--:|:--:|:--:|
 
 ---
----
 ### RSA blocking each other:
-|||||
-|:--:|:--:|:--:|:--:|
-||![](0.webp)|![](2.webp)||
+|![](0.webp)|![](2.webp)|
+|:--:|:--:|
 
